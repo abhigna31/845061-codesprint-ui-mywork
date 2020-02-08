@@ -1,0 +1,18 @@
+My associate id:
+845061
+Other team members:
+845061, 845060, 845062, 845113.
+Team lead:
+845059
+My Role in team:
+1. To develop homepage.
+My development files:
+1. home.html
+I was strong in:
+1. HTML
+2. Css
+3. bootstrape 4
+I was weak in:
+1. Javascript Validation
+Feedback:
+1. It was very intresting,wish we had more time.
